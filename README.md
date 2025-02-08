@@ -1,4 +1,4 @@
 # redditpuzzle
-#Claude.ai hooked this up!
-#Just put your password list in the wordlist folder and go!
-#Donations: 1NfZQZAJ3s3gZdkpPAxLWwnrHKeAKesbGU
+###Claude.ai hooked this up!
+###Just put your password list in a "wordlist" folder in this repository and go!
+####Donations: 1NfZQZAJ3s3gZdkpPAxLWwnrHKeAKesbGU
